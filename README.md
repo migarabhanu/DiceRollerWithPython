@@ -1,4 +1,4 @@
-# Intermediate Python Course
+# Dice Roller Application with Python for develop intermediate python skills with GitHub.
 
 Hey there, 
 
