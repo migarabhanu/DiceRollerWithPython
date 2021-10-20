@@ -1,1 +1,8 @@
-## Dice-rolling program create using Python for develop intermediate python skills with GitHub.
+# DiceRoller
+
+**This DiceRoller is a program powered with Python 🐱‍💻.**
+<br>
+**To run, please download Python.**
+<br>
+
+*😼 Proudly built with GitHub*
